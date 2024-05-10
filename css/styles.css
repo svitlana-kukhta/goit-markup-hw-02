@@ -1,2 +1,5 @@
 body {font-family: "Roboto", sans-serif;
-background-color: E5E5E5;}
+    color: #2e2f42;
+    background-color: E5E5E5;}
+ul {list-style-type: none;}
+link {text-decoration: none;}
