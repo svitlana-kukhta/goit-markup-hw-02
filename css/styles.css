@@ -23,14 +23,14 @@ a {text-decoration: none;
             line-height: 1.5;
             letter-spacing: 0.02em;
             color: #2e2f42;}
-.navigation:hover, .navigation:active {color: #404BBF;}
-address {font-style: normal;}
+.navigation:hover, .navigation:focus {color: #404BBF;}
+.contacts-data {font-style: normal;}
 .contacts {font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;}
-.contacts:hover {color: #404BBF;}
+.contacts:hover, .contacts:focus {color: #404BBF;}
 
 .order-service {background-color: #2e2f42;}
 .slogan {font-weight: 700;
@@ -102,21 +102,21 @@ address {font-style: normal;}
                     line-height: 1.5;
                     letter-spacing: 0.02em;
                     color: #434455;}
-footer {background-color: #2e2f42;}
+.footer-content {background-color: #2e2f42;}
 .footer-logo {font-family: "Raleway", sans-serif;
                     font-weight: 700;
                     font-size: 18px;
                     line-height: 1.17;
                     text-transform: uppercase;
                     letter-spacing: 0.03em;
-                    color: #f4f4fd;}
+                    color: #4d5ae5;}
 .footer-studio {font-family: "Raleway", sans-serif;
                     font-weight: 700;
                     font-size: 18px;
                     line-height: 1.17;
                     text-transform: uppercase;
                     letter-spacing: 0.03em;
-                    color: #4d5ae5;}
+                    color: #f4f4fd;}
 .footer-text {font-weight: 400;
             font-size: 16px;
             line-height: 1.5;
