@@ -31,12 +31,12 @@ a {text-decoration: none;
         letter-spacing: 0.02em;
         color: #434455;}
 .contacts:hover, .contacts:focus {color: #404BBF;}
-
 .order-service {background-color: #2e2f42;}
 .slogan {font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
+    text-align: center;
     color: #fff;}
 .order {background-color: #4d5ae5;
         cursor: pointer;
