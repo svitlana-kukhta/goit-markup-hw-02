@@ -1,34 +1,42 @@
 body {font-family: "Roboto", sans-serif;
-    color: #2e2f42;}
+    color:#434455;
+    background-color: #FFFFFF;}
 ul {list-style-type: none;}
 a {text-decoration: none;
     font-style: normal;}
+.studio {font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;}
 .logo {font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    letter-spacing: 0.03em;
-    color: #2e2f42;}
-.web {font-family: "Raleway", sans-serif;
-    color: #4d5ae5;}
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;}
 .navigation {font-weight: 500;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
             color: #2e2f42;}
 .navigation:hover, .navigation:active {color: #404BBF;}
+address {font-style: normal;}
 .contacts {font-weight: 400;
         font-size: 16px;
-        font-style: normal;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;}
 .contacts:hover {color: #404BBF;}
-.order-service {background-color: #2e2f42;
-                width: 1440px;
-                height: 600px;}
-h1 {font-weight: 700;
+
+.order-service {background-color: #2e2f42;}
+.slogan {font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
+    line-height: 1.07;
     text-align: center;
     color: #fff;}
 .order {background-color: #4d5ae5;
@@ -57,13 +65,16 @@ h1 {font-weight: 700;
             font-size: 36px;
             line-height: 1.11111;
             letter-spacing: 0.02em;
+            line-height: 1.11;
+            text-transform: capitalize;
             text-align: center;
             color: #2e2f42;}
-.colleague-info {box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-                background: #fff;}
+.colleague-info {background: #fff;}
 .colleague-name {font-weight: 500;
                 font-size: 20px;
                 letter-spacing: 0.02em;
+                text-transform: capitalize;
+                line-height: 1.2;
                 text-align: center;
                 color: #2e2f42;}
 .colleague-position {font-weight: 400;
@@ -75,9 +86,10 @@ h1 {font-weight: 700;
 
 .portfolio-header {font-weight: 700;
                 font-size: 36px;
-                line-height: 1.11111;
+                line-height: 1.11;
                 letter-spacing: 0.02em;
                 text-align: center;
+                text-transform: capitalize;
                 color: #2e2f42;}
 .portfolio-list {background: #fff;}
 .portfolio-services {font-weight: 500;
@@ -90,22 +102,20 @@ h1 {font-weight: 700;
                     line-height: 1.5;
                     letter-spacing: 0.02em;
                     color: #434455;}
-
-.footer-content {background: #2e2f42;}
-.footer-content .logo {font-family: "Raleway", sans-serif;
+footer {background-color: #2e2f42;}
+.footer-logo {font-family: "Raleway", sans-serif;
                     font-weight: 700;
                     font-size: 18px;
-                    line-height: 1.16667;
-                    letter-spacing: 0.03em;
+                    line-height: 1.17;
                     text-transform: uppercase;
+                    letter-spacing: 0.03em;
                     color: #f4f4fd;}
-
-.footer-content .web {font-family: "Raleway", sans-serif;
+.footer-studio {font-family: "Raleway", sans-serif;
                     font-weight: 700;
                     font-size: 18px;
-                    line-height: 1.16667;
-                    letter-spacing: 0.03em;
+                    line-height: 1.17;
                     text-transform: uppercase;
+                    letter-spacing: 0.03em;
                     color: #4d5ae5;}
 .footer-text {font-weight: 400;
             font-size: 16px;
