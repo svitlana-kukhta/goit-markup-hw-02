@@ -37,7 +37,6 @@ a {text-decoration: none;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
-    text-align: center;
     color: #fff;}
 .order {background-color: #4d5ae5;
         cursor: pointer;
@@ -67,7 +66,6 @@ a {text-decoration: none;
             letter-spacing: 0.02em;
             line-height: 1.11;
             text-transform: capitalize;
-            text-align: center;
             color: #2e2f42;}
 .colleague-info {background: #fff;}
 .colleague-name {font-weight: 500;
@@ -75,20 +73,17 @@ a {text-decoration: none;
                 letter-spacing: 0.02em;
                 text-transform: capitalize;
                 line-height: 1.2;
-                text-align: center;
                 color: #2e2f42;}
 .colleague-position {font-weight: 400;
                     font-size: 16px;
                     line-height: 1.5;
                     letter-spacing: 0.02em;
-                    text-align: center;
                     color: #434455;}
 
 .portfolio-header {font-weight: 700;
                 font-size: 36px;
                 line-height: 1.11;
                 letter-spacing: 0.02em;
-                text-align: center;
                 text-transform: capitalize;
                 color: #2e2f42;}
 .portfolio-list {background: #fff;}
