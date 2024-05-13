@@ -31,14 +31,14 @@ a {text-decoration: none;
         letter-spacing: 0.02em;
         color: #434455;}
 .contacts:hover, .contacts:focus {color: #404BBF;}
-.order-service {background-color: #2e2f42;}
+.buy-service {background-color: #2e2f42;}
 .slogan {font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
-    line-height: 1.07;
     text-align: center;
+    line-height: 1.07;
     color: #fff;}
-.order {background-color: #4d5ae5;
+.button {background-color: #4d5ae5;
         cursor: pointer;
         color: #fff;
         font-size: 16px;
@@ -46,7 +46,7 @@ a {text-decoration: none;
         letter-spacing: 0.04em;
         font-family: "Roboto", sans-serif;
         font-weight: 500;}
-.order:hover, .order:focus {background-color: #404BBF;}
+.button:hover, .button:focus {background-color: #404BBF;}
 
 .advantages-list {font-weight: 500;
     font-size: 20px;
